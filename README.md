@@ -42,6 +42,10 @@
 * `node server.js`
 * `Open your browser and go to http://localhost:3001`
 
+* The following image shows the web application's appearance and functionality:
+
+<img src="" alt="Mock-up of the project" />
+
 
 ## Features
 
